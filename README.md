@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi I’m Zivan Edri
 
-<!--
-**ziv-e/ziv-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Network administrator** building hands-on skills in Linux, networking, Python and security. Everything below is work I did myself, documented with evidence.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [home-security-lab](https://github.com/ziv-e/home-security-lab): a virtual security lab I built (Ubuntu Server, Kali Linux, OWASP Juice Shop), tested, hardened and documented.
+- [skills-practice](https://github.com/ziv-e/skills-practice): 0 hands-on exercises across Python, Linux, networking and ethical hacking, with the commands I ran and what I learned.
+
+## Skills
+
+
+## Certifications
+
+- [Add each certification with a verification link, or delete this section]
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/zivan-e-64757b80
